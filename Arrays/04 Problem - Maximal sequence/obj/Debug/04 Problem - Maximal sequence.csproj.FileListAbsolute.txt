@@ -1,0 +1,6 @@
+D:\Hristo\Telerik\Homeworks\H2\Arrays\04 Problem - Maximal sequence\bin\Debug\04 Problem - Maximal sequence.exe.config
+D:\Hristo\Telerik\Homeworks\H2\Arrays\04 Problem - Maximal sequence\bin\Debug\04 Problem - Maximal sequence.exe
+D:\Hristo\Telerik\Homeworks\H2\Arrays\04 Problem - Maximal sequence\bin\Debug\04 Problem - Maximal sequence.pdb
+D:\Hristo\Telerik\Homeworks\H2\Arrays\04 Problem - Maximal sequence\obj\Debug\04 Problem - Maximal sequence.exe
+D:\Hristo\Telerik\Homeworks\H2\Arrays\04 Problem - Maximal sequence\obj\Debug\04 Problem - Maximal sequence.pdb
+D:\Hristo\Telerik\Homeworks\H2\Arrays\04 Problem - Maximal sequence\obj\Debug\04 Problem - Maximal sequence.csprojResolveAssemblyReference.cache

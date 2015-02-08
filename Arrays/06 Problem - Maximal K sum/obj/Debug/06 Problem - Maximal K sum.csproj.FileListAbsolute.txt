@@ -1,0 +1,6 @@
+C:\Hristo\Telerik\Homeworks\H2\Arrays\06 Problem - Maximal K sum\bin\Debug\06 Problem - Maximal K sum.exe.config
+C:\Hristo\Telerik\Homeworks\H2\Arrays\06 Problem - Maximal K sum\bin\Debug\06 Problem - Maximal K sum.exe
+C:\Hristo\Telerik\Homeworks\H2\Arrays\06 Problem - Maximal K sum\bin\Debug\06 Problem - Maximal K sum.pdb
+C:\Hristo\Telerik\Homeworks\H2\Arrays\06 Problem - Maximal K sum\obj\Debug\06 Problem - Maximal K sum.csprojResolveAssemblyReference.cache
+C:\Hristo\Telerik\Homeworks\H2\Arrays\06 Problem - Maximal K sum\obj\Debug\06 Problem - Maximal K sum.exe
+C:\Hristo\Telerik\Homeworks\H2\Arrays\06 Problem - Maximal K sum\obj\Debug\06 Problem - Maximal K sum.pdb

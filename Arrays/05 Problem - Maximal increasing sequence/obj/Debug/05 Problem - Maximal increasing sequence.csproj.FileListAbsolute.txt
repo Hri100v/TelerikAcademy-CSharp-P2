@@ -1,0 +1,12 @@
+D:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\bin\Debug\05 Problem - Maximal increasing sequence.exe.config
+D:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\bin\Debug\05 Problem - Maximal increasing sequence.exe
+D:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\bin\Debug\05 Problem - Maximal increasing sequence.pdb
+D:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\obj\Debug\05 Problem - Maximal increasing sequence.csprojResolveAssemblyReference.cache
+D:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\obj\Debug\05 Problem - Maximal increasing sequence.exe
+D:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\obj\Debug\05 Problem - Maximal increasing sequence.pdb
+C:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\bin\Debug\05 Problem - Maximal increasing sequence.exe.config
+C:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\obj\Debug\05 Problem - Maximal increasing sequence.exe
+C:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\obj\Debug\05 Problem - Maximal increasing sequence.pdb
+C:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\bin\Debug\05 Problem - Maximal increasing sequence.exe
+C:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\bin\Debug\05 Problem - Maximal increasing sequence.pdb
+C:\Hristo\Telerik\Homeworks\H2\Arrays\05 Problem - Maximal increasing sequence\obj\Debug\05 Problem - Maximal increasing sequence.csprojResolveAssemblyReference.cache

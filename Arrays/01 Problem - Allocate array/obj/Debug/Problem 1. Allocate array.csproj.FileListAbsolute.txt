@@ -1,0 +1,6 @@
+D:\Hristo\Telerik\Homeworks\H2\Arrays\Problem 1. Allocate array\bin\Debug\Problem_1.Allocate_array.exe.config
+D:\Hristo\Telerik\Homeworks\H2\Arrays\Problem 1. Allocate array\bin\Debug\Problem_1.Allocate_array.exe
+D:\Hristo\Telerik\Homeworks\H2\Arrays\Problem 1. Allocate array\bin\Debug\Problem_1.Allocate_array.pdb
+D:\Hristo\Telerik\Homeworks\H2\Arrays\Problem 1. Allocate array\obj\Debug\Problem 1. Allocate array.csprojResolveAssemblyReference.cache
+D:\Hristo\Telerik\Homeworks\H2\Arrays\Problem 1. Allocate array\obj\Debug\Problem_1.Allocate_array.exe
+D:\Hristo\Telerik\Homeworks\H2\Arrays\Problem 1. Allocate array\obj\Debug\Problem_1.Allocate_array.pdb

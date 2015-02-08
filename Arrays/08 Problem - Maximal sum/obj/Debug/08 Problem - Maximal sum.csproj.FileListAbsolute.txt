@@ -1,0 +1,1 @@
+C:\Hristo\Telerik\Homeworks\H2\Arrays\08 Problem - Maximal sum\bin\Debug\08 Problem - Maximal sum.exe.config

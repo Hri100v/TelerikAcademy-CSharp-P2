@@ -1,0 +1,6 @@
+C:\Hristo\Telerik\Homeworks\H2\Arrays\07 Problem - Selection sort\bin\Debug\07 Problem - Selection sort.exe.config
+C:\Hristo\Telerik\Homeworks\H2\Arrays\07 Problem - Selection sort\bin\Debug\07 Problem - Selection sort.exe
+C:\Hristo\Telerik\Homeworks\H2\Arrays\07 Problem - Selection sort\bin\Debug\07 Problem - Selection sort.pdb
+C:\Hristo\Telerik\Homeworks\H2\Arrays\07 Problem - Selection sort\obj\Debug\07 Problem - Selection sort.exe
+C:\Hristo\Telerik\Homeworks\H2\Arrays\07 Problem - Selection sort\obj\Debug\07 Problem - Selection sort.pdb
+C:\Hristo\Telerik\Homeworks\H2\Arrays\07 Problem - Selection sort\obj\Debug\07 Problem - Selection sort.csprojResolveAssemblyReference.cache
