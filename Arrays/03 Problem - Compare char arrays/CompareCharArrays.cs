@@ -17,6 +17,62 @@ class CompareCharArrays
     {
         Console.OutputEncoding = Encoding.UTF8;
 
+        //char[] charArr1 = { 'a', 'c', 'l', 'm' };
+        //char[] charArr2 = { 'a', 'b', 'd', 'f', 'g' };
+
+        string text1 = "abdf";    //Console.ReadLine();
+        string text2 = "abdf";     //Console.ReadLine();
+        int size1 = text1.Length;
+        int size2 = text2.Length;
+        int size = 1;
+        
+        if (size1 > size2)
+        {
+            size = size1;
+        }
+        else
+        {
+            size = size2;
+        }
+
+        for (int i = 0; i < size; i++)
+        {
+            if (i == size - 1)
+            {
+                if (size1 > size2)
+                {
+                    Console.WriteLine("{0} > {1}", text1, text2);
+                    return;
+                }
+                else if (size1 < size2)
+                {
+                    Console.WriteLine("{0} < {1}", text1, text2);
+                    return;
+                }
+                else
+                {
+                    Console.WriteLine("{0} = {1}", text1, text2);
+                    return;
+                }
+                
+            }
+
+            if (text1[i] < text2[i])
+            {
+                Console.WriteLine("{0} < {1}", text1, text2);
+                return;
+            }
+            else if (text1[i] > text2[i])
+            {
+                Console.WriteLine("{0} > {1}", text1, text2);
+                return;
+            }
+
+            
+        }
+
+
+        /*
         Console.WriteLine();
         Console.WriteLine("Enter two char contained arrays.");
         Console.Write("Size of the first. ");
@@ -60,6 +116,6 @@ class CompareCharArrays
             //Thread.Sleep(150);
         }
 
-
+        */
     }
 }

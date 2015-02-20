@@ -56,7 +56,6 @@ build/
 $bin/.config/git/ignore
 $obj/.config/git/ignore
 $Properties/.config/git/ignore
-
 *_i.c
 *_p.c
 *.ilk
