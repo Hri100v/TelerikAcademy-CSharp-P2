@@ -1,5 +1,5 @@
 # TelerikAcademy-CSharp-P2
-Arrays \n
+Arrays
 Multidimensional Arrays
 Methods
 Numeral Systems
